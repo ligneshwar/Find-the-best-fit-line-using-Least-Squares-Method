@@ -24,8 +24,8 @@ Developed by: LIGNESHWAR K
 RegisterNumber: 212223230113
 
 ```
-```python
 
+```
 import numpy as np
 import matplotlib.pyplot as plt
  
@@ -66,7 +66,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show() 
-'''
+```
 
 ## Output:
 
