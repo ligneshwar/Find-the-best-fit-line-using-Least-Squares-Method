@@ -70,6 +70,7 @@ plt.show()
 
 ## Output:
 
+![Screenshot 2024-08-21 104859](https://github.com/user-attachments/assets/9f980185-6b73-48c7-9c63-304541b1347a)
 
 
 ## Result:
