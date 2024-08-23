@@ -26,11 +26,13 @@ step 7:Obtain the straight line equation Y=mX+b and plot the scatterplot.
 step 8: End the program.
 
 ## Program:
-```
- Program to implement univariate Linear Regression to fit a straight line using least squares.
- Developed by: LIGNESHWAR K
- RegisterNumber: 212223230113
-```
+
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+
+Developed by: LIGNESHWAR K
+
+RegisterNumber: 212223230113
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
