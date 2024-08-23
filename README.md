@@ -27,11 +27,11 @@ Get the independent variable X and dependent variable Y.
  End the program.
 
 ## Program:
-
-##  Program to implement univariate Linear Regression to fit a straight line using least squares.
-## Developed by: LIGNESHWAR K
-## RegisterNumber: 212223230113
-
+```
+ Program to implement univariate Linear Regression to fit a straight line using least squares.
+ Developed by: LIGNESHWAR K
+ RegisterNumber: 212223230113
+```
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
